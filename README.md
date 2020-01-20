@@ -6,7 +6,7 @@ Zhang Wen and Yuxin Peng, "Multi-level Knowledge Injecting for Visual Commonsens
 
 # Preparation
 
-This repo is based on the [VCR dataset repo] ((https://github.com/rowanz/r2c). The environment and setup process are pretty much the same. Specifically, we use Python 3.6, PyTorch 1.0, cuda 9.0 and test on Ubuntu 16.04 LTS.
+This repo is based on the [VCR dataset repo] (https://github.com/rowanz/r2c). The environment and setup process are pretty much the same. Specifically, we use Python 3.6, PyTorch 1.0, cuda 9.0 and test on Ubuntu 16.04 LTS.
 
 1. Get the dataset. Follow the steps in `data/README.md`.
 
