@@ -39,6 +39,3 @@ pip uninstall pillow && CC="cc -mavx2" pip install -U --force-reinstall pillow-s
 
 Please refer to models/README.md
 
-## help
-
-For any questions, fell  free to open an issue or contact us. (wen_zhang@pku.edu.cn)
