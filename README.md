@@ -41,4 +41,4 @@ Please refer to models/README.md
 
 ## help
 
-For any questions, fell  free to open an issue or contact us. (wen_zhang@pku.edu.cn)
+For any questions, feel  free to open an issue or contact us. (wen_zhang@pku.edu.cn)
